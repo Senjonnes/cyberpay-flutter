@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cyberpayflutter.iml" filepath="$PROJECT_DIR$/.idea/modules/cyberpayflutter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cyberpayflutter.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/cyberpayflutter.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cyberpayflutter.main.iml" filepath="$PROJECT_DIR$/.idea/modules/cyberpayflutter.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cyberpayflutter.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/cyberpayflutter.unitTest.iml" />
     </modules>
   </component>
 </project>
